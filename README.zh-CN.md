@@ -22,7 +22,7 @@
 
 🗂️ [**tab-out**](https://github.com/zarazhangrui/tab-out) (<!--stars:tab-out-->1.4k+<!--/stars--> stars) - 管好你的标签页。把「新标签页」变成你的指挥中心。为那些开了太多标签页却从不关闭的人而做
 
-🌉 [**feishu-claude-code-bridge**](https://github.com/zarazhangrui/feishu-claude-code-bridge) (<!--stars:feishu-claude-code-bridge-->802+<!--/stars--> stars) - 一个把飞书 / Lark 和本地 Claude Code CLI 打通的机器人：流式卡片、按会话隔离的 session、多 workspace
+🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->823+<!--/stars--> stars) - 一个把飞书 / Lark 和本地 Claude Code CLI 打通的机器人：流式卡片、按会话隔离的 session、多 workspace
 
 ---
 
@@ -42,7 +42,7 @@
 
 为飞书 / Lark 生态打造的 skills 和 bridge。
 
-🌉 [**feishu-claude-code-bridge**](https://github.com/zarazhangrui/feishu-claude-code-bridge) (<!--stars:feishu-claude-code-bridge-->802+<!--/stars--> stars) - 把飞书 / Lark 和本地 Claude Code CLI 打通：流式卡片、按会话隔离的 session、多 workspace
+🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->823+<!--/stars--> stars) - 把飞书 / Lark 和本地 Claude Code CLI 打通：流式卡片、按会话隔离的 session、多 workspace
 
 ✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->56+<!--/stars--> stars) - 一个 AI agent skill：读取飞书妙记的会议记录，提取行动项，并真正把它们完成
 
