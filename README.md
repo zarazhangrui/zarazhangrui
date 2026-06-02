@@ -12,7 +12,7 @@ I build opinionated skills and products. I don't have a traditional engineering 
 
 The ones people use most.
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->19.9k+<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->20k+<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->4.9k+<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
