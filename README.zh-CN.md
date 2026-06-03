@@ -12,13 +12,13 @@
 
 用得最多的几个。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->20.1k+<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->20.2k+<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
-📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->4.9k+<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
+📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5k+<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->4.5k+<!--/stars--> stars) - 一个 Claude Code skill，把任意代码库变成一份漂亮、可交互的单页 HTML 课程，专为非技术的 vibe coder 设计
 
-🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->2.4k+<!--/stars--> stars) - 一套 HTML 幻灯片模板库，让任意 coding agent 都能挑出合适的模板，自动生成漂亮的演示文稿
+🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->2.5k+<!--/stars--> stars) - 一套 HTML 幻灯片模板库，让任意 coding agent 都能挑出合适的模板，自动生成漂亮的演示文稿
 
 🗂️ [**tab-out**](https://github.com/zarazhangrui/tab-out) (<!--stars:tab-out-->1.4k+<!--/stars--> stars) - 管好你的标签页。把「新标签页」变成你的指挥中心。为那些开了太多标签页却从不关闭的人而做
 
@@ -32,11 +32,11 @@
 
 把想法（和代码）变成漂亮的、原生浏览器的网页和演示文稿。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->20.1k+<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->20.2k+<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->4.5k+<!--/stars--> stars) - 把任意代码库变成一份漂亮、可交互的单页 HTML 课程，专为非技术的 vibe coder 设计
 
-🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->2.4k+<!--/stars--> stars) - 一套 HTML 幻灯片模板库，让任意 coding agent 都能挑出合适的模板，自动生成漂亮的演示文稿
+🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->2.5k+<!--/stars--> stars) - 一套 HTML 幻灯片模板库，让任意 coding agent 都能挑出合适的模板，自动生成漂亮的演示文稿
 
 ---
 
@@ -56,7 +56,7 @@
 
 把长内容变成你真正会去消费的格式。
 
-📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->4.9k+<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
+📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5k+<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->460+<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
 
