@@ -22,7 +22,7 @@ The ones people use most.
 
 🗂️ [**tab-out**](https://github.com/zarazhangrui/tab-out) (<!--stars:tab-out-->1.4k+<!--/stars--> stars) - Keep tabs on your tabs. Turn your "New tab" page into mission control. Built for people who open too many tabs and never close them
 
-🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->846+<!--/stars--> stars) - A bot that bridges Feishu / Lark messenger with a local Claude Code CLI: streaming cards, per-chat sessions, multiple workspaces
+🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->846+<!--/stars--> stars) - A bot that bridges Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
 🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->102+<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
@@ -44,7 +44,7 @@ Tools for turning ideas (and code) into beautiful, browser-native pages and deck
 
 Skills and bridges for the Feishu / Lark ecosystem.
 
-🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->846+<!--/stars--> stars) - Bridge Feishu / Lark messenger with a local Claude Code CLI: streaming cards, per-chat sessions, multiple workspaces
+🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->846+<!--/stars--> stars) - Bridge Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
 ✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->57+<!--/stars--> stars) - AI agent skill: read Lark meeting transcripts, extract action items, and actually get them done
 
