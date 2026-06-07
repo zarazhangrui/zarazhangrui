@@ -2,10 +2,11 @@
 """Refresh star counts embedded in the profile README files.
 
 Each count lives between markers like:
-    (<!--stars:frontend-slides-->19.9k+<!--/stars--> stars)
+    (<!--stars:frontend-slides-->19,916<!--/stars--> stars)
 This script finds every such marker, looks up the repo's current star count
-via the GitHub API, formats it (e.g. 19916 -> "19.9k+", 802 -> "802+"), and
-rewrites the value in place. Descriptions and layout are left untouched.
+via the GitHub API, formats it as the exact number with thousands separators
+(e.g. 19916 -> "19,916", 802 -> "802"), and rewrites the value in place.
+Descriptions and layout are left untouched.
 """
 
 import json
@@ -21,9 +22,8 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 
 
 def format_count(n: int) -> str:
-    if n >= 1000:
-        return f"{n / 1000:.1f}k+"
-    return f"{n}+"
+    # Exact count with thousands separators, no rounding (e.g. 20620 -> "20,620").
+    return f"{n:,}"
 
 
 def fetch_stars(repo: str) -> int:
