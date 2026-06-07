@@ -2,14 +2,16 @@
 """Refresh star counts embedded in the profile README files.
 
 Each count lives between markers like:
-    (<!--stars:frontend-slides-->19,916<!--/stars--> stars)
+    (<!--stars:frontend-slides-->20.6k<!--/stars--> stars)
 This script finds every such marker, looks up the repo's current star count
-via the GitHub API, formats it as the exact number with thousands separators
-(e.g. 19916 -> "19,916", 802 -> "802"), and rewrites the value in place.
-Descriptions and layout are left untouched.
+via the GitHub API, and formats it the same way GitHub displays it on a repo
+page: compact "k" notation with one decimal for thousands, dropping a trailing
+".0" (e.g. 20620 -> "20.6k", 5032 -> "5k"), and the exact number below 1,000
+(e.g. 463 -> "463"). Descriptions and layout are left untouched.
 """
 
 import json
+import math
 import os
 import re
 import sys
@@ -22,8 +24,13 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 
 
 def format_count(n: int) -> str:
-    # Exact count with thousands separators, no rounding (e.g. 20620 -> "20,620").
-    return f"{n:,}"
+    # Match GitHub's own display: exact below 1,000, otherwise compact "k"
+    # notation with one decimal, half-up rounding, and any trailing ".0" dropped.
+    if n < 1000:
+        return str(n)
+    thousands = math.floor(n / 100 + 0.5) / 10  # one decimal, rounded half-up
+    label = f"{thousands:.1f}".rstrip("0").rstrip(".")
+    return f"{label}k"
 
 
 def fetch_stars(repo: str) -> int:
