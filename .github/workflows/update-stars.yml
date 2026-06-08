@@ -28,7 +28,7 @@ jobs:
 
       - name: Checkout
         if: github.event_name != 'schedule' || steps.pacific_time.outputs.run_update == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Refresh star counts
         if: github.event_name != 'schedule' || steps.pacific_time.outputs.run_update == 'true'
