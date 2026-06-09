@@ -1,12 +1,6 @@
 name: Update star counts
 
 on:
-  schedule:
-    # Every weekday at 2 PM America/Los_Angeles.
-    # GitHub schedules in UTC, so list both daylight-saving possibilities
-    # and let the Pacific-time check below skip the extra run.
-    - cron: "0 21 * * 1-5"
-    - cron: "0 22 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
@@ -16,28 +10,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Pacific time
-        id: pacific_time
-        if: github.event_name == 'schedule'
-        run: |
-          if [ "$(TZ=America/Los_Angeles date +%H)" = "14" ]; then
-            echo "run_update=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run_update=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Checkout
-        if: github.event_name != 'schedule' || steps.pacific_time.outputs.run_update == 'true'
         uses: actions/checkout@v6
 
       - name: Refresh star counts
-        if: github.event_name != 'schedule' || steps.pacific_time.outputs.run_update == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/update_stars.py
 
       - name: Commit if changed
-        if: github.event_name != 'schedule' || steps.pacific_time.outputs.run_update == 'true'
         run: |
           if [ -n "$(git status --porcelain README.md README.zh-CN.md)" ]; then
             git config user.name "github-actions[bot]"
