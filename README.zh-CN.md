@@ -61,7 +61,3 @@
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->463<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
 
 🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->373<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
-
----
-
-<sub>Star 数据每个工作日太平洋时间下午 2 点自动刷新。</sub>

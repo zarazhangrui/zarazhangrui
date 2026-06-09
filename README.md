@@ -61,7 +61,3 @@ Turning long-form content into formats you'll actually consume.
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->463<!--/stars--> stars) - A Claude skill that turns YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your inbox regularly
 
 🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->373<!--/stars--> stars) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts
-
----
-
-<sub>Star counts refresh every weekday at 2pm Pacific time.</sub>
