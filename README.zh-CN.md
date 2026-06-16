@@ -12,7 +12,7 @@
 
 用得最多的几个。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->21.8k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->21.9k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5.2k<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
@@ -24,7 +24,7 @@
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->1.2k<!--/stars--> stars) - 一个把飞书 / Lark 和本地 Claude Code 或 Codex CLI 打通的机器人：流式卡片、按会话隔离的 session、多 workspace
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->330<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->341<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
 
 ---
 
@@ -32,7 +32,7 @@
 
 把想法（和代码）变成漂亮的、原生浏览器的网页和演示文稿。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->21.8k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->21.9k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->4.7k<!--/stars--> stars) - 把任意代码库变成一份漂亮、可交互的单页 HTML 课程，专为非技术的 vibe coder 设计
 
@@ -46,9 +46,9 @@
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->1.2k<!--/stars--> stars) - 把飞书 / Lark 和本地 Claude Code 或 Codex CLI 打通：流式卡片、按会话隔离的 session、多 workspace
 
-✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->59<!--/stars--> stars) - 一个 AI agent skill：读取飞书妙记的会议记录，提取行动项，并真正把它们完成
+✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->60<!--/stars--> stars) - 一个 AI agent skill：读取飞书妙记的会议记录，提取行动项，并真正把它们完成
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->330<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->341<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
 
 ---
 
@@ -58,6 +58,6 @@
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5.2k<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
-📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->470<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
+📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->472<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
 
 🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->382<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
