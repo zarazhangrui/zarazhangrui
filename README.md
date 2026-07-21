@@ -22,11 +22,11 @@ Save articles with one click. Every 5 saves, it automatically books a 30-minute 
 
 The ones people use most.
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->25.8k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->26.1k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5.9k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
-📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.2k<!--/stars--> stars) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
+📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.3k<!--/stars--> stars) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
 
 🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->3.8k<!--/stars--> stars) - A library of HTML slide templates so any coding agent can pick the right one and produce a beautiful deck automatically
 
@@ -34,7 +34,7 @@ The ones people use most.
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->1.9k<!--/stars--> stars) - A bot that bridges Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->554<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->572<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -42,9 +42,9 @@ The ones people use most.
 
 Tools for turning ideas (and code) into beautiful, browser-native pages and decks.
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->25.8k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->26.1k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
-📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.2k<!--/stars--> stars) - Turn any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
+📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.3k<!--/stars--> stars) - Turn any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
 
 🎨 [**beautiful-html-templates**](https://github.com/zarazhangrui/beautiful-html-templates) (<!--stars:beautiful-html-templates-->3.8k<!--/stars--> stars) - A library of HTML slide templates so any coding agent can pick the right one and produce a beautiful deck automatically
 
@@ -58,7 +58,7 @@ Skills and bridges for the Feishu / Lark ecosystem.
 
 ✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->62<!--/stars--> stars) - AI agent skill: read Lark meeting transcripts, extract action items, and actually get them done
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->554<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->572<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -68,6 +68,6 @@ Turning long-form content into formats you'll actually consume.
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->5.9k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
-📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->513<!--/stars--> stars) - A Claude skill that turns YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your inbox regularly
+📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->516<!--/stars--> stars) - A Claude skill that turns YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your inbox regularly
 
-🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->404<!--/stars--> stars) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts
+🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->406<!--/stars--> stars) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts
