@@ -8,13 +8,11 @@
 
 ---
 
-## 🆕 最新：Reading Block
+## 🆕 最新：YouTube Digest
 
-一键保存文章。每存满 5 篇，它就自动在你的日历上排一个 30 分钟的阅读时间块，并把链接都放进日程里，让"稍后阅读"真的发生。📺 [观看演示视频（2 分钟）](https://www.youtube.com/watch?v=Q8g1hod552g)
+把每个 YouTube 视频变成一份可以深入学习的资料。在一个 Chrome 侧边栏里查看字幕、双语翻译、AI 概览、内容讲解和时间戳笔记。
 
-📅 [**reading-block**](https://github.com/zarazhangrui/reading-block)：Google 日历版
-
-🟦 [**reading-block-lark**](https://github.com/zarazhangrui/reading-block-lark)：飞书 / Lark 版
+▶️ [**youtube-digest**](https://github.com/zarazhangrui/youtube-digest)：开源 Chrome 扩展，需要使用自己的 API Key。
 
 ---
 
