@@ -8,13 +8,11 @@ I build opinionated skills and products. I don't have a traditional engineering 
 
 ---
 
-## 🆕 New: Reading Block
+## 🆕 New: YouTube Digest
 
-Save articles with one click. Every 5 saves, it automatically books a 30-minute reading block on your calendar with the links inside, so "read later" actually happens. 📺 [Watch the 2-minute demo](https://www.youtube.com/watch?v=Q8g1hod552g)
+Turn every YouTube video into a resource for deep learning. Get transcripts, bilingual translation, AI overviews, explanations, and timestamped notes in one Chrome side panel.
 
-📅 [**reading-block**](https://github.com/zarazhangrui/reading-block): Google Calendar version
-
-🟦 [**reading-block-lark**](https://github.com/zarazhangrui/reading-block-lark): Feishu / Lark version
+▶️ [**youtube-digest**](https://github.com/zarazhangrui/youtube-digest): Open-source Chrome extension. Bring your own API keys.
 
 ---
 
