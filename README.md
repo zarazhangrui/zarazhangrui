@@ -32,7 +32,7 @@ The ones people use most.
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->2.5k<!--/stars--> stars) - A bot that bridges Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->710<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->713<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -56,7 +56,7 @@ Skills and bridges for the Feishu / Lark ecosystem.
 
 ✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->64<!--/stars--> stars) - AI agent skill: read Lark meeting transcripts, extract action items, and actually get them done
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->710<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->713<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -68,4 +68,4 @@ Turning long-form content into formats you'll actually consume.
 
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->553<!--/stars--> stars) - A Claude skill that turns YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your inbox regularly
 
-🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->424<!--/stars--> stars) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts
+🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->423<!--/stars--> stars) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts

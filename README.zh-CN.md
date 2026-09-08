@@ -32,7 +32,7 @@
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->2.5k<!--/stars--> stars) - 一个把飞书 / Lark 和本地 Claude Code 或 Codex CLI 打通的机器人：流式卡片、按会话隔离的 session、多 workspace
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->710<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->713<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
 
 ---
 
@@ -56,7 +56,7 @@
 
 ✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->64<!--/stars--> stars) - 一个 AI agent skill：读取飞书妙记的会议记录，提取行动项，并真正把它们完成
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->710<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->713<!--/stars--> stars) - 35 套精选配色风格，用来制作漂亮、可编辑的飞书 / Lark 画板。一个 agent skill
 
 ---
 
@@ -68,4 +68,4 @@
 
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->553<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
 
-🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->424<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
+🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->423<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
