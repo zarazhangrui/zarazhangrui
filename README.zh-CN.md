@@ -20,7 +20,7 @@
 
 用得最多的几个。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.7k<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
@@ -40,7 +40,7 @@
 
 把想法（和代码）变成漂亮的、原生浏览器的网页和演示文稿。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.5k<!--/stars--> stars) - 把任意代码库变成一份漂亮、可交互的单页 HTML 课程，专为非技术的 vibe coder 设计
 
@@ -68,4 +68,4 @@
 
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->553<!--/stars--> stars) - 一个 Claude skill，把你喜欢的频道的 YouTube 字幕转成 EPUB 电子书，定期送到你的邮箱
 
-🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->423<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
+🎙️ [**personalized-podcast**](https://github.com/zarazhangrui/personalized-podcast) (<!--stars:personalized-podcast-->424<!--/stars--> stars) - 把任意内容变成一档为你定制的 AI 播客。类似 NotebookLM，但脚本、声音和主持人都由你掌控
