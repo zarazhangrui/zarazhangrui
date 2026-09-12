@@ -20,7 +20,7 @@ Turn every YouTube video into a resource for deep learning. Get transcripts, bil
 
 The ones people use most.
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.2k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.7k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
@@ -40,7 +40,7 @@ The ones people use most.
 
 Tools for turning ideas (and code) into beautiful, browser-native pages and decks.
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.2k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.5k<!--/stars--> stars) - Turn any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
 

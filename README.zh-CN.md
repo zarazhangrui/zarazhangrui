@@ -20,7 +20,7 @@
 
 用得最多的几个。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.2k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.7k<!--/stars--> stars) - AI builder 文摘，追踪 X 上的顶尖 AI builder 和 YouTube 播客，把内容重新整理成易读的摘要。关注 builder，而不是网红
 
@@ -40,7 +40,7 @@
 
 把想法（和代码）变成漂亮的、原生浏览器的网页和演示文稿。
 
-🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.1k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
+🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.2k<!--/stars--> stars) - 用 coding agent 的前端能力在网页上做出漂亮的幻灯片
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.5k<!--/stars--> stars) - 把任意代码库变成一份漂亮、可交互的单页 HTML 课程，专为非技术的 vibe coder 设计
 
