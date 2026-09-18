@@ -22,7 +22,7 @@ The ones people use most.
 
 🎞️ [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (<!--stars:frontend-slides-->29.5k<!--/stars--> stars) - Create beautiful slides on the web using a coding agent's frontend skills
 
-📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.7k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
+📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.8k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
 📚 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (<!--stars:codebase-to-course-->5.6k<!--/stars--> stars) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders
 
@@ -32,7 +32,7 @@ The ones people use most.
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->2.5k<!--/stars--> stars) - A bot that bridges Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->728<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->729<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -54,9 +54,9 @@ Skills and bridges for the Feishu / Lark ecosystem.
 
 🌉 [**lark-coding-agent-bridge**](https://github.com/zarazhangrui/lark-coding-agent-bridge) (<!--stars:lark-coding-agent-bridge-->2.5k<!--/stars--> stars) - Bridge Feishu / Lark messenger with a local Claude Code or Codex CLI: streaming cards, per-chat sessions, multiple workspaces
 
-✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->66<!--/stars--> stars) - AI agent skill: read Lark meeting transcripts, extract action items, and actually get them done
+✅ [**lark-minutes-tasks**](https://github.com/zarazhangrui/lark-minutes-tasks) (<!--stars:lark-minutes-tasks-->67<!--/stars--> stars) - AI agent skill: read Lark meeting transcripts, extract action items, and actually get them done
 
-🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->728<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
+🖌️ [**beautiful-feishu-whiteboard**](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) (<!--stars:beautiful-feishu-whiteboard-->729<!--/stars--> stars) - 35 curated colour-palette styles for building beautiful, editable Feishu / Lark whiteboards. An agent skill
 
 ---
 
@@ -64,7 +64,7 @@ Skills and bridges for the Feishu / Lark ecosystem.
 
 Turning long-form content into formats you'll actually consume.
 
-📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.7k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
+📡 [**follow-builders**](https://github.com/zarazhangrui/follow-builders) (<!--stars:follow-builders-->6.8k<!--/stars--> stars) - AI builders digest that monitors top AI builders on X and YouTube podcasts and remixes their content into digestible summaries. Follow builders, not influencers
 
 📖 [**youtube-to-ebook**](https://github.com/zarazhangrui/youtube-to-ebook) (<!--stars:youtube-to-ebook-->557<!--/stars--> stars) - A Claude skill that turns YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your inbox regularly
 
